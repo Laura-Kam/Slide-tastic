@@ -264,6 +264,12 @@ Slider
     height: 65vh;
   }
 }
+
+/* the container's width is moving every 
+time by 100%, stacking them 
+horizontally next to each other */
+
+
 /* .slide:nth-child(1){
   left: 0;
 }
